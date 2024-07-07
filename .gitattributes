@@ -1,0 +1,2 @@
+# Ensure CRLF line endings for .gitmodules
+.gitmodules text eol=crlf
